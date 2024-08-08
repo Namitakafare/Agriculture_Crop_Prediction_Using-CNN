@@ -1,5 +1,3 @@
-# Namitakafare-Namitakafare-Agriculture_Crop_Prediction-Using CNN
-
 # Agriculture-crop-image-Prediction
 Predicting various agricultural crop images of wheat, rice(Paddy), sugarcane, jute, maize( Corn)
 
